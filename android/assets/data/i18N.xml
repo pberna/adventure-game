@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<localization>
+    <!-- List of localizations of the game -->
+    <localeList>
+        <locale displayedText="English">en</locale>
+        <locale displayedText="Español">es</locale>
+    </localeList>
+    <!-- List of bundles-->
+    <bundlesList>
+        <bundle>
+            <path>i18N/Common</path>
+            <alias>Common</alias>
+        </bundle>
+    </bundlesList>
+</localization>

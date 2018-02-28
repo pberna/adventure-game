@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!-- The list of assets is not complete. It is only an example of a configuration -->
+<assets>	
+    <bitmapFontList>
+		<bitmapFont>
+			<path minWidth="0" minHeight="0"
+				maxWidth="320" maxHeight="480">path_to_fnt_file</path>
+			<path minWidth="321" minHeight="481"
+				maxWidth="699" maxHeight="820">path_to_fnt_file</path>
+			<path minWidth="321" minHeight="821"
+				maxWidth="699" maxHeight="1049">path_to_fnt_file</path>
+			<path minWidth="700" minHeight="1050"
+				maxWidth="1049" maxHeight="1499">path_to_fnt_file</path>
+			<path minWidth="1050" minHeight="1500">path_to_fnt_file</path>
+			<alias>FontAlias</alias>
+		</bitmapFont>
+	</bitmapFontList>
+	<textureAtlasList>
+	    <textureAtlas>
+	        <path minWidth="0" minHeight="0" 
+	            maxWidth="320" maxHeight="480">path_to_pack_file</path>
+	        <path minWidth="321" minHeight="481" 
+	            maxWidth="699" maxHeight="1049">path_to_pack_file</path>
+	        <path minWidth="700" minHeight="1050"
+				maxWidth="1049" maxHeight="1499">path_to_pack_file</path>
+			<path minWidth="1050" minHeight="1500">path_to_pack_file</path>
+			<alias>TextureAtlasAlias</alias>
+	    </textureAtlas>
+	</textureAtlasList>
+	<textureList>		
+		<texture>
+			<path minWidth="0" minHeight="0" 
+	            maxWidth="320" maxHeight="480">path_to_image_file</path>
+	        <path minWidth="321" minHeight="481" 
+	            maxWidth="699" maxHeight="1049">path_to_image_file</path>
+	        <path minWidth="700" minHeight="1050"
+	            maxWidth="1049" maxHeight="1499">path_to_image_file</path>
+	        <path minWidth="1050" minHeight="1500">path_to_image_file</path>
+			<alias>ImageAlias</alias>
+		</texture>
+	</textureList>
+	<musicList>
+		<music>
+			<path>path_to_music_file</path>
+			<alias>MusicAlias</alias>
+		</music>
+	</musicList>
+	<soundList>
+		<sound>
+			<path>path_to_sound_file</path>
+			<alias>SoundAlias</alias>
+		</sound>
+	</soundList>
+</assets>

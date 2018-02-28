@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<scripts>
+    <script version="1">scripts/V1.sql</script>
+    <script version="2">scripts/V2.sql</script>
+    <script version="3">scripts/V3.sql</script>
+    <script version="4">scripts/V4.sql</script>
+    <script version="5">scripts/V5.sql</script>
+    <script version="6">scripts/V6.sql</script>
+</scripts>
