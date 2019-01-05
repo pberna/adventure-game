@@ -6,7 +6,7 @@ A digital gamebook written in java with Libgdx.
 
 You can play a partial-featured version of the game on your browser:
 
-[Browser version](https://adventure-game.azurewebsites.net/)
+[Browser version](https://lomoda.itch.io/adventure-game)
 
 You can download a full-playable version from either Google Play:
 
